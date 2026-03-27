@@ -30,14 +30,13 @@ SmartMoney AI is an AI-powered personal finance assistant that helps users manag
 
 ## 📂 Project Structure
 
-smartmoney-ai/
-│
-├── index.html
-├── style.css
-├── script.js
-├── app.py (optional)
-├── requirements.txt
-└── README.md
+smartmoney-ai->>
+a.)index.html
+b.) style.css
+c.) script.js
+d.) app.py (optional)
+e.) requirements.txt
+f.) README.md
 
 ---
 
@@ -51,10 +50,10 @@ smartmoney-ai/
 
 ### Advanced Version:
 
-1. Install dependencies
+1. Install dependencies:-
    pip install flask flask-cors
 
-2. Run server
+2. Run server:-
    python app.py
 
 3. Open `index.html`
@@ -100,7 +99,9 @@ smartmoney-ai/
 
 ## 👩‍💻 Author
 
-Rupali
+Rupali Kumari
+Arpita Nair
+Kavyaa Gupta
 MERI College of Engineering and Technology
 
 ---
